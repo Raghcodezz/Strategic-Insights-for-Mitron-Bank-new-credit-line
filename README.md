@@ -90,6 +90,7 @@ To provide actionable insights into customer behavior, spending habits, income u
     Additionally, POS charges from merchants (at 1.5% MDR ₹237.6M × 1.5%) would yield ₹35.64L.
    
     Together, Mitron Bank can expect over ₹51L in annual credit card-related revenue.
-
+You can find the detialed project by clicking this link:
+https://public.tableau.com/views/StrategicInsightsforMitronBanksNewCreditLine/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
    
 
